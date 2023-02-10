@@ -8,10 +8,7 @@ h1 {
   text-align: center;
 }
 
-.laptop_large,
-.laptop,
-.tablet,
-.mobile {
+div{
   font-size: 40px;
   text-align: center;
   display: none;
